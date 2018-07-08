@@ -12,10 +12,10 @@ My simple own version of Wolfenstein 3D. Creation a 3D graphically â€œrealisticâ
 - textures application
 
 ### usage ###
-menu mode:
+- menu mode:
 
-./wolf3d
+  ./wolf3d
 
-open a scene from file:
+- open a scene from file:
 
-./wolf3d [maps/map]
+  ./wolf3d [maps/map]
