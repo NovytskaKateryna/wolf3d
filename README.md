@@ -7,9 +7,9 @@ My simple own version of Wolfenstein 3D. Creation a 3D graphically â€œrealisticâ
 <img width="1268" alt="screen shot 2018-07-08 at 7 21 25 pm" src="https://user-images.githubusercontent.com/36333370/42421803-3ae7fd66-82e4-11e8-934b-a79ed090bb26.png">
 
 ### skills ###
-ray-casting principles
-user events management
-textures application
+- ray-casting principles
+- user events management
+- textures application
 
 ### usage ###
 menu mode:
